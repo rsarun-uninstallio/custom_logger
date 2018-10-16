@@ -8,7 +8,7 @@ setup(
   author = 'arun.rs',
   author_email = 'arunrs@uninstall.io',
   url = 'https://github.com/rsarun-uninstallio/custom_logger',
-  download_url = 'https://github.com/rsarun-uninstallio/customlogger/archive/v0.1.tar.gz',
+  download_url = 'https://github.com/rsarun-uninstallio/custom_logger/archive/v0.1.tar.gz',
   keywords = ['logging', 'customlogger'],
   install_requires=['logging', 'apprequest'],
   classifiers=[  # Optional
